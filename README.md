@@ -13,5 +13,7 @@ Lista das ferramentas:
 
 - A pasta Backend não possui dependencias, apenas de desenvolvimento.
 - Como são duas principais pastas elas possuem alguns arquivos repetidos como o readme, package...
+- Estarei iniciando o projeto pelo frontend
+- Nome de arquivos genericos pra subir pro github.
 
 ***OBS: ESTE PROJETO NÃO POSSUI NENHUMA CORRELAÇÃO COM O SITE: [mytools](https://mytools.co.nz/). Só achei o nome criativo para este projeto em desenvolvimento.***
